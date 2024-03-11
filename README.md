@@ -1,5 +1,5 @@
 Daftar tugas / branch  
-    1. Tugas-git  
+      1. Tugas-git  
     2. Tugas-html  
     3. Tugas-css  
     4. Tugas-js  
